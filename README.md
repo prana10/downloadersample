@@ -56,6 +56,10 @@ private void showNotification(String message, int notificationId) {
         notificationManager.notify(notificationId, builder.build());
     }
 ```
+## Acknowledgements
+- [background Work with WorkManager in Java](https://developer.android.com/codelabs/android-workmanager-java#0)
+- [HttpURLConnection Reference](https://developer.android.com/reference/java/net/HttpURLConnection)
+- [WorkManager Reference](https://developer.android.com/reference/androidx/work/WorkManager)
 
 # Authors
 - [@dhika_prana](https://www.instagram.com/dhika_prana/)
