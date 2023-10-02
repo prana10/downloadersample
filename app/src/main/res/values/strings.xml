@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Downloader Sample</string>
+    <string name="title">Downloader Sample</string>
+    <string name="desc">Lokasi File berada di /data/user/0/com.garyle.downloadersample/files/</string>
 </resources>
